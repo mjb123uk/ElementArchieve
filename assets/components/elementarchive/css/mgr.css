@@ -1,0 +1,44 @@
+.elementarchive-viewtree-root a {
+	font-size: 22px;
+}
+.elementarchive-viewtree-root a span {
+	color: #447996;
+}
+.elementarchive-viewtree-root .x-tree-ec-icon {
+	vertical-align: middle;
+}
+.elementarchive-viewfile {
+	padding: 10px;
+}
+.elementarchive-viewfile-form {
+	padding: 10px;
+}
+.elementarchive-jsontreepanel {
+	margin-left: 10px;
+}
+.elementarchive-viewexit {
+    float: right;
+    margin-right: 4%;
+    /* added to fix chrome */
+    width: 100px;
+}
+.icon-red {
+	font-size: 72% !important;
+	padding: 6px !important;	
+	color: #ff0000;
+}
+.icon-blue {
+	font-size: 72% !important;
+	padding: 6px !important;
+	color: #0050a0;
+}
+.icon-green {
+	font-size: 72% !important;
+	padding: 6px !important;
+	color: #008000;
+}
+.icon-yellow {
+	font-size: 72% !important;
+	padding: 6px !important;
+	color: #ffa000;
+}
