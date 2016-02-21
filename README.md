@@ -24,6 +24,8 @@ Template Variables objects are stored as JSON data.
 
 You can view the saved content files in a simple viewer, the JSON object data is viewed as a tree.
 
+If an element editor is installed (Ace or CodeMirror) then the content file viewer will use either to display in syntax.
+
 Credit to Gabor Turi ( http://jsonviewer.stack.hu/ ) for example of JSON tree for Extjs.
 
 This CMP uses the Modx 2.3+ menu system and by default creates a menu entry under the Extras menu.
