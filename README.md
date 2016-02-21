@@ -1,7 +1,7 @@
 ElementArchive
 ==============
 
-This Modx extra is a Custom Manager Page (CMP) that can be used to take a snapshot / archieve of the elements in your site.
+This Modx extra is a Custom Manager Page (CMP) that can be used to take a snapshot / archive of the elements in your site.
 
 It is useful during the development stages of a new web site foundation so that changes to the underlying templates and other
 elements can be preserved at a point in the process.
@@ -11,7 +11,7 @@ This CMP does not copy any of the resources or assets, you should rely on backup
 You can create an archive with a defined title in a 'system setting' selected folder.  By default this is within the 
 {assets_path}components/elementarchive/archive/ folder.  It is recommended that this be changed to somewhere out of the
 web root e.g. if you have moved the core then {core_path}export/elementarchive/.  Note - if the path does not exist but
-is writable then it will be created when you first launch the elementarchieve CMP.
+is writable then it will be created when you first launch the elementarchive CMP.
 
 The create/build option will save a copy of each element (Templates, Template Variables, Chunks, Snippets & Plugins)
 in a structure that matches the element tree.
